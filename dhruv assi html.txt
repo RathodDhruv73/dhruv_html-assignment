@@ -1,0 +1,85 @@
+Web Designing
+                                      MODULE: 1 (HTML)  ASSIGNMENT
+                (1) Are the HTML tags and elements the same thing?         
+               ANS   :  An element in HTML represents some kind of structure or semantics and generally consists
+ of a start tag, content, and an end tag. 
+                HTML documents contain tags, paragraphs, links, images . so on HTML elements 
+                 
+               (2) What are tags and attributes in HTML?
+                 ANS  :  An HTML element is defined by a starting tag. If the element contains other content,"opening tag,
+ its content and the closing tag" is called an element. <html>content...</html> So yes html is a tag but put 
+together with opening and closing tag it becomes and element.
+            
+              (3)What are void elements in HTML?
+              ANS :    here is a special group of elements that only have start tags and does not contain any content within it,
+ these elements are called void elementsExample of such elements are <br>, <hr>, <img>, <input>, <link>, <base>
+, <meta>, <param>, <area>, <embed>, <col>, <track>, <source> etc.
+         
+             (4)What are HTML Entities?
+           ANS :   If you use the less than (<) or greater than (>) signs in your text, the browser might mix them with tags.
+Character entities are used to display reserved characters in HTML.
+
+             (5)What are the various formatting tags in HTML?
+             ANS :  1. <b> and <strong> Tags: Both tags are used to make the text bold.
+               2. <i> and <em> Tags: Both tags are used to make the text italic and emphasized. 
+               3. <small> and <big> Tags: The <small> tag is used to set small font-size where as <big> tag is used to set big font-size.
+               4. HTML <mark> Tag: The <mark> tag is used to highlighting a text. It has an opening and closing tag.
+            
+              (6)How is Cell Padding different from Cell Spacing?
+            ANS :   It is mainly meant for a single cell.	Cellspacing can get subjected to more than one cell.     
+                The  default cellpadding value is 1                	Whereas, the default cellspacing value is 2
+	      Cellpadding is an attribute                      	Cellspacing is also an attribute.
+
+               (7)How can we club two or more rows or columns into a single row or column in an HTML table?
+                  ANS:     rowspan=To combine two or more rows
+                colspan=To combine tow or more columns
+
+               (8)What is the difference between a block-level element and an inline element?
+               ANS  :  They consume the entire width available irrespective of their sufficiency.
+                       <hr>: This is an empty tag and is used for separating content by horizontal lines.
+                       <li>: This tag is used for including list items of an ordered or unordered list.
+                        <ul>: This tag is used to make an unordered list.
+                        <ol>: This tag is used to make an ordered list.       
+        inline element :  <a>: This tag is used for including hyperlinks in the webpage.
+                                        <br>: This tag is used for mentioning line breaks in the webpage wherever needed.
+                                        <script> : This tag is used for including external and internal JavaScript codesi
+                                       <input>: This tag is used for taking input from the users and is mainly used in forms.
+
+                (9)How to create a Hyperlink in HTML?
+                 ANS:  The most important attribute of the <a> element is the href attribute, which indicates the link's destination. 
+           The link text is the part that will be visible to the reader.
+               
+               (10)What is the use of a span tag? Explain with example?
+             ANS : <span> element which is used to color a part of a text: 
+            <p>My mother has <span style="color:blue">blue</span> eyes.</p>
+ 
+             (11)How to insert a picture into a background image of a web page?
+             ANS :  Under the CSS <style> tag, add the property background-image. The property sets a graphic such as jpg, png, svg, gif, etc. HTML
+       
+            (12)What are the different tags to separate sections of text?
+       ANS :      headings tags , paragraph tags, list tags , div tags ,span tag
+<u> It is used to underline the text.
+<tt> Teletype text gives the default font-family which is monospace.
+<strike> It is an editing markup that tells the reader to ignore the text passage
+     
+          (14)What is SVG?
+        ANS :   Just like PDF, it supports the presence of text and the opportunity to print, but this is not its initial task. It provides you more tools for creativity.
+ 
+           (15)What is difference between HTML and XHTML? 
+                ANS :    SVG (“Scalable Vector Graphics”) is a vector graphic format that has become a standard in the world of digital graphics.
+      NS :    XHTML stands for EXtensible HyperText Markup Language
+          XHTML is a stricter, more XML-based version of HTML
+          XHTML is HTML defined as an XML application
+          XHTML is supported by all major browsers
+
+          (16)What are logical and physical tags in HTML?
+            ANS : <sub> The subscript is used for alternate baseline.
+          <i> An Italic tag is used to define a text with a special meanin     
+           <u> It is used to underline the text.
+           <tt> Teletype text gives the default font-family which is monospace.
+           <strike> It is an editing markup that tells the reader to ignore the text passage
+
+
+
+
+
